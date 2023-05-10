@@ -16,3 +16,9 @@ _Screen Compress is a video file compressor written in Python._
 
 ### Requirements
 On pending
+
+### CLONE REPO
+
+```
+git clone https://github.com/gelndjj/Screen_Compress.git
+```
