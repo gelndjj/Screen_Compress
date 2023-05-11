@@ -17,6 +17,7 @@ _Screen Compress is a video file compressor written in Python._
 ### REDUCE VIDEO FILE SIZE
 ###### Let's compress a screen recording with the resolution of 2658x1722 to 1080.The orignal size went from 7.2MB to 0.83MB
 
+https://github.com/gelndjj/Screen_Compress/assets/81557672/3efca591-f2c0-46d3-a2c6-67e5c79498e5
 
 ### REQUIREMENTS
 ```
