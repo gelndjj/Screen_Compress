@@ -9,7 +9,7 @@ _Screen Compress is a video file compressor written in Python._
 ### HOW IT WORKS
 1. Select the video file you want to reduce size, multiple files is allowed.</br></br>
 2. Click on the resolution of your choice to start the compression process.</br></br>
-3. Once done, a message will be displayed at the bottom right.</br>
+3. Once done, a message will be displayed at the bottom right.The video file compressed will be available in the folder as the original.</br>
 
 ### H.265
 ###### Using the h265 button keeps the original size of the video.
