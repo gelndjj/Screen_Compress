@@ -15,15 +15,18 @@ _Screen Compress is a video file compressor written in Python._
 ###### Using the h265 button keeps the original size of the video.
 
 ### REDUCE VIDEO FILE SIZE
-####### Let's compress a screen recording with the resolution of 2658x1722 to 1080.The orignal size went from 7.2MB to 0.83MB
-
+###### Let's compress a screen recording with the resolution of 2658x1722 to 1080.The orignal size went from 7.2MB to 0.83MB
 
 
 ### REQUIREMENTS
-On pending
-
+```
+pip install -r requirements.txt
+```
+```
+# ON MAC OS
+brew install ffmpeg
+```
 ### CLONE REPO
-
 ```
 git clone https://github.com/gelndjj/Screen_Compress.git
 ```
