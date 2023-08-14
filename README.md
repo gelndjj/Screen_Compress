@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div align="center">
-<img src="https://github.com/gelndjj/Screen_Compress/blob/main/resources/main_windows.png" alt="Logo" width="800" height="600">
+<img src="https://github.com/gelndjj/Screen_Compress/blob/main/resources/main_windows.png" alt="Logo" width="600" height="400">
 </br>
 </br>
 The main purpose of this script is to compress video files while keeping a decent quality.
