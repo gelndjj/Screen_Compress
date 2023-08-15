@@ -87,7 +87,7 @@ root.title("Screen Record Compressor")
 
 frame = tk.Frame(root, width=720, height=150, borderwidth=0, highlightthickness=0)
 frame.pack()
-image = Image.open("img_soft/main_win.png")
+image = Image.open("resources/main_win.png")
 img = ImageTk.PhotoImage(image)
 
 canvas = tk.Canvas(frame, width=720, height=150, highlightthickness=0)
